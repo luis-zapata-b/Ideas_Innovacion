@@ -1,1 +1,1 @@
-Evento de el dia 30-12-2019, trato sobre Webscraping con R
+Evento de el dia 30-12-2019, trato sobre Webscraping con R. Desarrollado por Andrea Silva, Departamento de Indicadores del Gasto.
