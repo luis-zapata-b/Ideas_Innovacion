@@ -6,7 +6,7 @@ import os
 from requests import Session
 import json
 import io
-
+#Escrito por Bruno Gonzaga, Departamento de Análisis de Coyuntura
 ################################################################################################
 # 1. Parametros de las busquedas
 
